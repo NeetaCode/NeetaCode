@@ -1,30 +1,31 @@
 <h2 align="center">👋 Hi, I'm Neeta</h2>
-<h4 align="center">AI/ML Engineer | Software Developer | Cloud-Native ML Systems</h4>
+<h4 align="center">AI/ML Engineer • Software Developer • Cloud-Native ML Systems</h4>
 
 ---
 
 ### 👩‍💻 About Me
 
-🎓 Pursued **M.S. in Computer Science** at *University of Colorado Colorado Springs* (Aug 2023 – Dec 2025)  
-💼 Software Engineer with **8+ years** in development and **2.5 years** in AI/ML, deep learning, and LLM-based reasoning  
-Currently learning Prompt Engineering, Data Engineering, and Cloud Deployment for AI/ML and Large Language Models
-👯 Looking to collaborate on **AI/ML, MLOps, and backend systems**  
-💬 Ask me about **LLMs, NLP, Python, or Cloud-native ML**  
-📫 Reach me at → [you@domain.com](mailto:neetatechy@gmail.com)
-
+🎓 Pursuing **M.S. in Computer Science** at *University of Colorado Colorado Springs (Aug 2023 – Dec 2025)*  
+💼 Software Engineer with **8+ years** of professional experience and **2.5 years** of focused work in AI/ML, Deep Learning, and LLM-based reasoning  
+🌱 Currently learning **Prompt Engineering, Data Engineering, and Cloud Deployment** for **AI/ML and Large Language Models**  
+👯 Looking to collaborate on **LLM reasoning, MLOps, and scalable backend systems**  
+💬 Ask me about **Python, NLP, LLMs, Cloud-native ML, or System Design**  
+📫 Reach me at → [neetatechy@gmail.com](mailto:neetatechy@gmail.com)
 
 ---
 
 ### 🚀 Highlights
-- 🧠 **LLM Prompt Engineering for Math Reasoning** experimenting with structured prompts and retrieval for step-by-step logic.
-- 🗣️ **Accent Identification (ANN)** multilingual classifier improving ASR accuracy by **20%** using PyTorch & Hugging Face.
-- ❤️ **Heart Disease Prediction** logistic/SVM models achieving **85% accuracy** on the Cleveland dataset.
-- 🧬 **3D Chromosome Reconstruction (RL)** reinforcement learning on Hi-C data; reduced training time **40%** with CUDA.
-- ⚙️ **Automation & CI/CD** built scalable pipelines using Jenkins, Docker, and Azure DevOps, improving release speed by **30%**.
+
+- 🧠 **Prompt Engineering for LLMs** — exploring structured prompts and retrieval methods to improve multi-step math reasoning  
+- 🗣️ **Accent Identification (ANN)** — multilingual classifier improving ASR accuracy by **20%** using PyTorch and Hugging Face  
+- ❤️ **Heart Disease Prediction** — SVM and Logistic Regression models achieving **85% accuracy** on the Cleveland dataset  
+- 🧬 **3D Chromosome Reconstruction (RL)** — reinforcement learning on Hi-C data, reducing training time **40%** with CUDA  
+- ⚙️ **Automation & CI/CD** — built scalable ML pipelines using Jenkins, Docker, and Azure DevOps, boosting release speed **30%**
 
 ---
 
 ### 🧰 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
@@ -42,24 +43,27 @@ Currently learning Prompt Engineering, Data Engineering, and Cloud Deployment fo
 ---
 
 ### 🎓 Education
-**M.S. Computer Science**, *University of Colorado Colorado Springs (Aug 2023 – Dec 2025)*  
-Coursework: AI, Reinforcement Learning, Artificial Neural Networks, Software Product Management  
+
+**M.S. Computer Science**, *University of Colorado Colorado Springs (2023 – 2025)*  
+Focus: Artificial Intelligence, Reinforcement Learning, Neural Networks, Software Product Management  
 
 **B.S. Computer Science**, *University of Mumbai, India*  
-Coursework: Operating Systems, Linux, Java, Software Engineering
+Focus: Operating Systems, Linux, Java, and Software Engineering  
 
 ---
 
 ### 💼 Experience
-- **AI Research Assistant**, *UCCS* accelerated genomic ML pipelines by **30%**; containerized systems on GCP using Docker + CUDA.  
-- **Network Assistant**, *UCCS OIT* automated provisioning scripts in Python, reducing manual config time **40%**.  
-- **Senior Software Engineer**, *Accolite Digital* engineered C# backends and CI/CD with Azure DevOps, cutting deployment time **50%**.  
-- **Software Consultant**, *Capgemini* developed REST APIs and Dockerized microservices for cloud-native scalability.  
-- **Systems Engineer**, *Tata Consultancy Services* optimized Java/C++ backend performance and automated Jenkins pipelines.
+
+- **AI Research Assistant**, *UCCS* — accelerated genomic ML pipelines by **30%**; containerized experiments on GCP using Docker and CUDA  
+- **Network Assistant**, *UCCS OIT* — automated provisioning scripts in Python, reducing manual configuration time **40%**  
+- **Senior Software Engineer**, *Accolite Digital* — engineered C# backends and CI/CD pipelines on Azure DevOps, cutting deployment time **50%**  
+- **Software Consultant**, *Capgemini* — developed REST APIs and Dockerized microservices for cloud-native scalability  
+- **Systems Engineer**, *Tata Consultancy Services* — optimized Java/C++ backends and automated Jenkins pipelines for faster delivery  
 
 ---
 
 ### 📊 Quick Glance
+
 | Domain | Expertise |
 |--------|------------|
 | 🧮 Machine Learning | ███████████░ 90% |
@@ -71,10 +75,10 @@ Coursework: Operating Systems, Linux, Java, Software Engineering
 ---
 
 ### 🌐 Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/neeta-kannu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:neetatechy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <!-- <a href="https://huggingface.co/YOUR-HF"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black" /></a> -->
 </p>
 
 ---
@@ -85,4 +89,4 @@ Coursework: Operating Systems, Linux, Java, Software Engineering
 
 ---
 
-*Currently completing my M.S. in Computer Science @ UCCS and open to **AI/ML Engineer** or **Software Engineer** roles starting Dec 2025 / Jan 2026.*
+*Currently completing my M.S. in Computer Science at UCCS and open to **AI/ML Engineer** or **Software Engineer** roles starting Dec 2025 / Jan 2026.*
