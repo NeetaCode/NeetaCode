@@ -3,10 +3,15 @@
 
 ---
 
-### 💡 About Me
-AI/ML Engineer with 8 years in software engineering and 2 years specializing in deep learning, LLMs, NLP, RL, and speech recognition.  
-I build and scale **cloud-native AI systems** that achieve up to **30% faster inference** and **20% higher accuracy** across NLP, vision, and RL domains.  
-Currently exploring **Prompt Engineering for Large Language Models** to improve reasoning on mathematical problem solving.
+### 👩‍💻 About Me
+
+🎓 Pursued **M.S. in Computer Science** at *University of Colorado Colorado Springs* (Aug 2023 – Dec 2025)  
+💼 Software Engineer with **8+ years** in development and **2.5 years** in AI/ML, deep learning, and LLM-based reasoning  
+Currently learning Prompt Engineering, Data Engineering, and Cloud Deployment for AI/ML and Large Language Models
+👯 Looking to collaborate on **AI/ML, MLOps, and backend systems**  
+💬 Ask me about **LLMs, NLP, Python, or Cloud-native ML**  
+📫 Reach me at → [you@domain.com](mailto:neetatechy@gmail.com)
+
 
 ---
 
