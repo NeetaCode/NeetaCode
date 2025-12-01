@@ -74,6 +74,17 @@ Focus: Operating Systems, Linux, Java, and Software Engineering
 
 ---
 
+### 🧠 LeetCode
+<a href="https://leetcode.com/neetaLeet/">
+  <img src="./leetcode-50-days-2025.png" height="60" style="vertical-align: middle;" />
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/neetaLeet/">
+  <img src="https://leetcard.jacoblin.cool/neetaLeet?theme=light&font=Karma" height="60" style="vertical-align: middle;" />
+</a>
+
+---
+
 ### 🌐 Connect
 
 <p align="center">
