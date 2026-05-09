@@ -1,5 +1,4 @@
 <h2 align="center">Hi, I'm Neeta 👋</h2>
-<h2 align="center">Hi, I'm Neeta 👋</h2>
 <h4 align="center">Software Engineer · AI/ML · Backend Systems</h4>
 
 <p align="center">
