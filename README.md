@@ -1,4 +1,5 @@
 <h2 align="center">Hi, I'm Neeta 👋</h2>
+<h2 align="center">Hi, I'm Neeta 👋</h2>
 <h4 align="center">Software Engineer · AI/ML · Backend Systems</h4>
 
 <p align="center">
@@ -26,7 +27,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/neetaLeet/">
-    <img src="https://leetcard.jacoblin.cool/neetaLeet?theme=light&font=Karma" width="320" height="110" />
+    <img src="https://leetcard.jacoblin.cool/neetaLeet?theme=light&font=Karma" height="110" />
   </a>
 </p>
 
