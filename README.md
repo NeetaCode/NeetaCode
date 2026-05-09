@@ -28,9 +28,9 @@ Open to Software Engineer, Backend, and AI/ML roles
 <p align="center">
   <a href="https://leetcode.com/neetaLeet/">
     <img 
-      src="https://github.com/NeetaCode/NeetaCode/blob/main/leetcode-50-days-2025.png" 
-      width="140"
-      height="140"
+      src="https://raw.githubusercontent.com/NeetaCode/NeetaCode/main/leetcode-50-days-2025.png"
+      width="110"
+      height="110"
     />
   </a>
 
@@ -38,9 +38,9 @@ Open to Software Engineer, Backend, and AI/ML roles
 
   <a href="https://leetcode.com/neetaLeet/">
     <img 
-      src="https://leetcard.jacoblin.cool/neetaLeet?theme=light&font=Karma" 
-      width="140"
-      height="140"
+      src="https://leetcard.jacoblin.cool/neetaLeet?theme=light&font=Karma"
+      width="320"
+      height="110"
     />
   </a>
 </p>
