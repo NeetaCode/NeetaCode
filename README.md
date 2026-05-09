@@ -1,4 +1,43 @@
 <h2 align="center">Hi, I'm Neeta 👋</h2>
+<h4 align="center">Software Engineer | AI/ML Engineer | Backend Systems</h4>
+
+<p align="center">
+Python • AI/ML • LLMs • Distributed Systems • Cloud
+</p>
+
+<p align="center">
+M.S. Computer Science, University of Colorado Colorado Springs (Dec 2025) <br>
+Open to Software Engineer, Backend, and AI/ML roles
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/neetaLeet/">
+    <img src="https://leetcard.jacoblin.cool/neetaLeet?theme=light&font=Karma" height="150"/>
+  </a>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/neeta-kannu/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:neetatechy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+</a>
+</p>
+
+
+
+
+<!-- <h2 align="center">Hi, I'm Neeta 👋</h2>
 <h4 align="center">Software Engineer | AI/ML Engineer | Backend & Cloud Systems</h4>
 
 ---
@@ -70,4 +109,4 @@
 
 <p align="center">
 Open to Software Engineering, Backend, and AI/ML opportunities.
-</p>
+</p> -->
