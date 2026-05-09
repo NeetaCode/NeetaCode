@@ -12,28 +12,37 @@ Open to Software Engineer, Backend, and AI/ML roles
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
 </p>
 
 <p align="center">
+  <a href="https://leetcode.com/neetaLeet/">
+    <img src="./leetcode-75-days-2025.png" height="70" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/neetaLeet/">
     <img src="https://leetcard.jacoblin.cool/neetaLeet?theme=light&font=Karma" height="150"/>
   </a>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/neeta-kannu/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:neetatechy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/neeta-kannu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:neetatechy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
 </p>
-
 
 
 
