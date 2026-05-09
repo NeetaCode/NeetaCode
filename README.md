@@ -1,23 +1,44 @@
-### Neeta Kannu · Software Engineer · AI/ML · Backend
+<h2 align="center">Hi, I'm Neeta 👋</h2>
+<h4 align="center">Software Engineer · AI/ML · Backend Systems</h4>
 
-**Focus:** LLMs · ML Pipelines · Distributed Backend · Cloud-Native Systems
+<p align="center">
+  M.S. Computer Science, UC Colorado Springs (Dec 2025) &nbsp;|&nbsp; Open to SWE · Backend · AI/ML roles
+</p>
 
-**Languages:** Python · Java · C++ · SQL  
-**AI/ML:** PyTorch · HuggingFace · TensorFlow · NLP  
-**Infra:** Docker · Kubernetes · GCP · Azure · FastAPI · Jenkins
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+</p>
 
-**Selected projects**  
-- Accent identification — PyTorch, HuggingFace, speech recognition  
-- 3D chromosome reconstruction — RL, CUDA optimization, genomics  
-- LLM prompt engineering — RAG, structured reasoning  
-- Heart disease prediction — SVM, Logistic Regression  
+<p align="center">
+  <a href="https://leetcode.com/neetaLeet/">
+    <img src="https://raw.githubusercontent.com/NeetaCode/NeetaCode/main/leetcode-50-days-2025.png" width="110" height="110" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/neetaLeet/">
+    <img src="https://leetcard.jacoblin.cool/neetaLeet?theme=light&font=Karma" width="320" height="110" />
+  </a>
+</p>
 
-M.S. Computer Science · UC Colorado Springs · Dec 2025  
-Open to Software Engineer, Backend, and AI/ML roles
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeta-kannu/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neetatechy@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/neetaLeet/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/neeta-kannu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:neetatechy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 <!-- <h2 align="center">Hi, I'm Neeta 👋</h2>
