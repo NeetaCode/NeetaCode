@@ -20,5 +20,5 @@
 <div align="center"><table border="0" cellspacing="0" cellpadding="2"><tr>
   <td align="center" valign="middle"><a href="https://leetcode.com/neetaLeet/"><img src="https://raw.githubusercontent.com/NeetaCode/NeetaCode/main/leetcode-50-days-2025.png" width="75" height="75" /></a></td>
   <td align="center" valign="middle"><a href="https://leetcode.com/neetaLeet/"><img src="https://leetcard.jacoblin.cool/neetaLeet?theme=light&font=Karma" height="75" /></a></td>
-  <td align="center" valign="middle"><a href="https://www.linkedin.com/in/neeta-kannu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a><br/><a href="mailto:neetatechy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a></td>
+  <td align="center" valign="middle"><a href="https://www.linkedin.com/in/neeta-kannu/"><img src="https://www.linkedin.com/in/neeta-kannu/" /></a><br/><a href="mailto:neetatechy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a></td>
 </tr></table></div>
