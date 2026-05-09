@@ -20,15 +20,22 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/neetaLeet/">
-    <img src="https://raw.githubusercontent.com/NeetaCode/NeetaCode/main/leetcode-50-days-2025.png" width="110" height="110" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/neetaLeet/">
-    <img src="https://leetcard.jacoblin.cool/neetaLeet?theme=light&font=Karma" height="110" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://leetcode.com/neetaLeet/">
+          <img src="https://raw.githubusercontent.com/NeetaCode/NeetaCode/main/leetcode-50-days-2025.png" width="110" height="110" />
+        </a>
+      </td>
+      <td>
+        <a href="https://leetcode.com/neetaLeet/">
+          <img src="https://leetcard.jacoblin.cool/neetaLeet?theme=light&font=Karma" height="110" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/neeta-kannu/">
@@ -39,7 +46,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 <!-- <h2 align="center">Hi, I'm Neeta 👋</h2>
 <h4 align="center">Software Engineer | AI/ML Engineer | Backend & Cloud Systems</h4>
