@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Neeta 👋</h2>
+<h2 align="center">Hi, I'm Neeta👋</h2>
 <h4 align="center">Software Engineer · AI/ML · Backend Systems</h4>
 <p align="center">M.S. CS, UC Colorado Springs (Dec 2025) &nbsp;|&nbsp; Open to SWE · Backend · AI/ML roles</p>
 
